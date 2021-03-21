@@ -1,7 +1,7 @@
 import React from 'react';
 // Components React-native
 import { RectButtonProperties } from "react-native-gesture-handler"
-// styles
+// Styles
 import { Container, ButtonText } from './styles';
 
 interface ButtonProps extends RectButtonProperties {
